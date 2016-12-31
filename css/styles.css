@@ -49,7 +49,7 @@ div.menu {
 }
 
 nav.menu {
-	background-image: url("../chestnut.jpg");
+	background-image: url("../photos/chestnut.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	margin: 0px;
@@ -137,6 +137,17 @@ iframe {
     text-align:center;
 }
 
+#about-content {
+	font-family: 'Source Sans Pro', sans-serif;
+	position: absolute;
+	background-color: rgba(237, 231, 222, 0.8);
+	border: 5px solid rgba(0, 0, 0, 0.6);
+	width: 40%;
+	right: 0px
+	10px;
+	text-align: center;
+}
+
 #content h2 {
 	text-align: center;
 	font-size:400%;
@@ -159,7 +170,7 @@ img.social {
 }
 
 #about {
-	background-image: url("../photos/fox-mural.jpg");
+	background-image: url("../photos/small-leo-blueberry-crop.jpg");
 }
 
 #skills {
@@ -167,7 +178,7 @@ img.social {
 }
 
 #projects {
-	background-image: url("../photos/happy-camp.jpg");
+	background-image: url("../photos/fox-mural.jpg");
 }
 
 body {
