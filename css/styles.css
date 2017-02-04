@@ -89,6 +89,7 @@ a.menu {
 	padding: 8px;
 	padding-top: 3px;
 	padding-bottom: 3px;
+	border-radius: 7%;
 }
 
 
@@ -201,9 +202,9 @@ iframe {
 
 #projects-content {
 	width: 30%;
-    right: 10%;
+    right: 8%;
     padding: 10px;
-    margin-top: 1%;
+    margin-top: 5%;
     text-align:center;
     box-shadow: 0px 10px 20px black;
 }
@@ -247,7 +248,7 @@ img.social {
 
 /* BODY */
 #home {
-	background-image: url("../photos/leo-hike.jpg");
+	background-image: url("../photos/leo-hike-darker.jpg");
 }
 
 #about {
@@ -259,7 +260,7 @@ img.social {
 }
 
 #projects {
-	background-image: url("../photos/fox-mural.jpg");
+	background-image: url("../photos/rally.jpg");
 }
 
 body {
